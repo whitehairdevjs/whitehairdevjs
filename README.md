@@ -1,4 +1,4 @@
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome to the %20JS %20World.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome%20to%20the%20JS%20World.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 ## Hi there 👋
 
