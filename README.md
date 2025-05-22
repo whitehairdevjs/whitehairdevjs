@@ -1,6 +1,14 @@
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome%20to%20the%20JS%20World.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
-## Hi there 👋
+# 👋 Hi, I'm Jae Sung Kim. Nice to meet you!!!!
+💻 Backend Developer | Java Spring Expert | 6+ years experience  
+🏢 Currently: wayfarer (unemployed)   
+📫 Contact: jsuserwork20@gmail.com
+
+## 🛠️ Tech Stack
+- Java, Spring Boot, Spring Batch, JavaScript, TypeScript, React, C#, VB.NET
+- MariaDB, PostgreSql, MySQL, MongoDB
+- AWS, GCP, Jenkins
 
 ### Statistics
 <div>
