@@ -2,12 +2,16 @@
 
 # 👋 Hi, I'm Jae Sung Kim. Nice to meet you!!!!
 💻 Backend Developer | Java Spring Expert | 6+ years experience  
+
 🏢 Currently: wayfarer (unemployed)   
+
 📫 Contact: jsuserwork20@gmail.com
 
 ## 🛠️ Tech Stack
 - Java, Spring Boot, Spring Batch, JavaScript, TypeScript, React, C#, VB.NET
+  
 - MariaDB, PostgreSql, MySQL, MongoDB
+  
 - AWS, GCP, Jenkins
 
 ### Statistics
