@@ -8,7 +8,7 @@
 📫 Contact: jsuserwork20@gmail.com
 
 ## 🛠️ Tech Stack
-- Java, Spring Boot, Spring Batch, JavaScript, TypeScript, React, C#, VB.NET
+- Java, Spring Boot, Spring Batch, JavaScript, TypeScript, React
   
 - MariaDB, PostgreSql, MySQL, MongoDB
   
