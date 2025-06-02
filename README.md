@@ -10,7 +10,7 @@
 ## 🛠️ Tech Stack
 - Java, Spring Boot, Spring Batch, JavaScript, TypeScript, React
   
-- MariaDB, PostgreSql, MySQL, MongoDB
+- MariaDB, PostgreSql, MySQL, MongoDB, Redis
   
 - AWS, GCP, Jenkins
 
