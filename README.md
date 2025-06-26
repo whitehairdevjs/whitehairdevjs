@@ -48,8 +48,8 @@ Looking for new adventures as a backend engineer.
 
 ## 📊 Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whitehairdevjs&show_icons=true&hide_border=true&count_private=true&title_color=FFD700&text_color=E0E0E0&icon_color=4FC3F7&bg_color=0D1117" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitehairdevjs&layout=compact&langs_count=8&hide_border=true&title_color=FFD700&text_color=E0E0E0&icon_color=4FC3F7&bg_color=0D1117&hide=html,css,c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=whitehairdevjs&show_icons=true&hide_border=true&count_private=true&title_color=FFD700&text_color=E0E0E0&icon_color=4FC3F7&bg_color=0D1117" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitehairdevjs&layout=compact&langs_count=8&hide_border=true&title_color=FFD700&text_color=E0E0E0&icon_color=4FC3F7&bg_color=0D1117&hide=html,css,c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda" height="190" />
 </div>
 
 ---
@@ -59,7 +59,7 @@ Looking for new adventures as a backend engineer.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=900&size=20&pause=1000&color=08d216&center=true&width=500&lines=Thank+you+for+visiting+my+profile!!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=900&size=20&pause=1000&color=0f7bef&center=true&width=500&lines=Thank+you+for+visiting+my+profile!!" />
 </p>
 
 <p align="center">
