@@ -1,5 +1,4 @@
 <p align="center">
-<!--   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome%20to%20the%20JS%20World.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4" alt="banner"/> -->
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1100">
 </p>
 
@@ -13,6 +12,9 @@ Looking for new adventures as a backend engineer.
 
 **📫 Contact Me**  
 📧 [jsuserwork20@gmail.com](mailto:jsuserwork20@gmail.com)
+
+🔗 **A site that tells my story**  
+🌐 [https://js-fe.vercel.app/](https://js-fe.vercel.app/)
 
 ---
 
