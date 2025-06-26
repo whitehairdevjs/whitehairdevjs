@@ -1,11 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome%20to%20the%20JS%20World.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4" alt="banner"/>
+<!--   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome%20to%20the%20JS%20World.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4" alt="banner"/> -->
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1100">
 </p>
 
-<h1 align="center">👋 Hi, I'm Jae Sung Kim</h1>
-<p align="center">💻 Backend Developer | Java Spring Expert | 5+ years experience</p>
-<p align="center">🏢 Currently: <strong>wayfarer (unemployed)</strong></p>
-<p align="center">📫 Contact: <a href="mailto:jsuserwork20@gmail.com">jsuserwork20@gmail.com</a></p>
+## 👋 Hi, I'm Jae Sung Kim
+
+**💻 Backend Developer**  
+Java Spring Expert with 5+ years of experience in diverse software development projects.
+
+**🏢 Currently**  
+Looking for new adventures as a backend engineer.
+
+**📫 Contact Me**  
+📧 [jsuserwork20@gmail.com](mailto:jsuserwork20@gmail.com)
 
 ---
 
@@ -40,8 +47,25 @@
 ---
 
 ## 📊 Statistics
-<div>
-  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=whitehairdevjs&show_icons=true&theme=holi" width = "49%" height="400px" />
-<!--   <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=nachochip2p" width="42%" height="100%"/> -->
-  <img align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitehairdevjs&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"  width="45%" height="400px"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=whitehairdevjs&show_icons=true&hide_border=true&count_private=true&title_color=FFD700&text_color=E0E0E0&icon_color=4FC3F7&bg_color=0D1117" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitehairdevjs&layout=compact&langs_count=8&hide_border=true&title_color=FFD700&text_color=E0E0E0&icon_color=4FC3F7&bg_color=0D1117&hide=html,css,c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda" height="200" />
 </div>
+
+---
+
+<p align="center" style="font-family: monospace;">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/animated_section_divider.gif" width="100%" alt="divider"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=900&size=20&pause=1000&color=08d216&center=true&width=500&lines=Thank+you+for+visiting+my+profile!!" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-green?style=flat-square&logo=github&logoColor=white"/>
+</p>
+
+<p align="center">
+  <sub><i>Crafted with precision, passion, and a little retro magic 🧙‍♂️✨</i></sub>  
+</p>
