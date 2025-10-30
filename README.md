@@ -13,6 +13,9 @@ Looking for new adventures as a backend engineer.
 **📫 Contact Me**  
 📧 [jsuserwork20@gmail.com](mailto:jsuserwork20@gmail.com)
 
+📝 My Notion Blog
+📖 [https://stone-bulb-521.notion.site/Jason-JSON-Kim-89e07dfb402e4315ae0bd4645e6019a9]([https://js-fe.vercel.app/](https://stone-bulb-521.notion.site/Jason-JSON-Kim-89e07dfb402e4315ae0bd4645e6019a9))
+
 🔗 **A site that tells my story**  
 🌐 [https://js-fe.vercel.app/](https://js-fe.vercel.app/)
 
